@@ -1,0 +1,5 @@
+[CRAWLER]
+KEYWORD = ÄíÆÎ ±è¹ü¼®
+
+[EXCEL]
+RESULT_PATH = ./°á°ú¹°.xlsx
