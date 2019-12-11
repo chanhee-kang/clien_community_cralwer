@@ -9,14 +9,13 @@
 * 별도의 설치 필요없이 exe파일내에서 실행 가능하게 해줍니다. Python의 파일들은 exe파일을 만들기위한 코드로써 실제론 exe파일과 txt파일만 있으면 정상 작동합니다.
 
 ## Usage
-* 1. setting.txt 파일을 열어 자신이 원하는 키워드와 해당 파일이 저장될 경로를 표시해 줍니다
-<code>KEYWORD = 검색할 키워드 삽입 </code>
-<code>RESULT_PATH = 경로표시.xlsx</code>
+* step1: setting.txt 파일을 열어 자신이 원하는 키워드와 해당 파일이 저장될 경로를 표시해 줍니다
+###### <code>KEYWORD = 검색할 키워드 삽입 </code>
+###### <code>RESULT_PATH = 경로표시.xlsx</code>
 
-* 2. main.exe 파일을 실행시켜 줍니다
+* step2: main.exe 파일을 실행시켜 줍니다
 
-### Limitations
-
+## Limitations
 클리앙에서 확인되는 최대 페이지수가 100페이지까지므로 100페이지 이전의 자료는 수집할 수 없음.
 
 ## Contact
