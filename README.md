@@ -7,7 +7,7 @@ Python의 파일들은 exe파일을 만들기위한 코드로써 실제론 exe�
 클리앙 크롤러는 파이썬3를 통해 작성되었습니다.<br><br>
 먼저 해당 프로그램을 git clone을 통해 다운로드 해줍니다.
 ```
-$git clone https://github.com/ck992/DBpia_crawler.git
+$git clone https://github.com/ck992/clien_community_cralwer.git
 ```
 
 ### 실행
