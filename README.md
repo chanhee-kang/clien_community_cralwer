@@ -1,6 +1,7 @@
 ## 클리앙(Clien) 크롤러
 국내 커뮤니티 클리앙의 계시물과 해당 계시물들의 댓글을 크롤링 해주는 프로그램입니다.<br><br>
 클리앙 모두의 공원 내의 계시물을 수집합니다 <br><br>
+https://www.clien.net/service/search <br><br>
 Python의 파일들은 exe파일을 만들기위한 코드로써 실제론 exe파일과 txt파일만 있으면 정상 작동합니다.
 
 ### 설치
